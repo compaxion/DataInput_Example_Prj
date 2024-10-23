@@ -1,0 +1,1 @@
+Product: pen Sold: 5Product: pencil Sold: 4Product: book Sold: 10Product: candy Sold: 25
